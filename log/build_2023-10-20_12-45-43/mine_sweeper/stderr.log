@@ -1,0 +1,5 @@
+  File "/home/tyler122333/HW4/install/mine_sweeper/lib/python3.10/site-packages/mine_sweeper/sweeper.py", line 38
+    img = np.reshape(img, (SCALE[0]*SCALE[1],3)
+                    ^
+SyntaxError: '(' was never closed
+

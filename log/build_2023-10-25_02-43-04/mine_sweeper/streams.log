@@ -1,0 +1,24 @@
+[0.500s] Invoking command in '/home/tyler122333/HW4/src/mine_sweeper': PYTHONPATH=/home/tyler122333/HW4/build/mine_sweeper/prefix_override:/home/tyler122333/HW4/install/mine_sweeper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mine_sweeper build --build-base /home/tyler122333/HW4/build/mine_sweeper/build install --record /home/tyler122333/HW4/build/mine_sweeper/install.log --single-version-externally-managed
+[0.679s] running egg_info
+[0.679s] writing ../../build/mine_sweeper/mine_sweeper.egg-info/PKG-INFO
+[0.680s] writing dependency_links to ../../build/mine_sweeper/mine_sweeper.egg-info/dependency_links.txt
+[0.680s] writing entry points to ../../build/mine_sweeper/mine_sweeper.egg-info/entry_points.txt
+[0.680s] writing requirements to ../../build/mine_sweeper/mine_sweeper.egg-info/requires.txt
+[0.680s] writing top-level names to ../../build/mine_sweeper/mine_sweeper.egg-info/top_level.txt
+[0.681s] reading manifest file '../../build/mine_sweeper/mine_sweeper.egg-info/SOURCES.txt'
+[0.682s] writing manifest file '../../build/mine_sweeper/mine_sweeper.egg-info/SOURCES.txt'
+[0.682s] running build
+[0.682s] running build_py
+[0.682s] copying mine_sweeper/sweeper.py -> /home/tyler122333/HW4/build/mine_sweeper/build/lib/mine_sweeper
+[0.682s] running install
+[0.682s] running install_lib
+[0.683s] copying /home/tyler122333/HW4/build/mine_sweeper/build/lib/mine_sweeper/sweeper.py -> /home/tyler122333/HW4/install/mine_sweeper/lib/python3.10/site-packages/mine_sweeper
+[0.683s] byte-compiling /home/tyler122333/HW4/install/mine_sweeper/lib/python3.10/site-packages/mine_sweeper/sweeper.py to sweeper.cpython-310.pyc
+[0.684s] running install_data
+[0.685s] running install_egg_info
+[0.686s] removing '/home/tyler122333/HW4/install/mine_sweeper/lib/python3.10/site-packages/mine_sweeper-0.0.0-py3.10.egg-info' (and everything under it)
+[0.686s] Copying ../../build/mine_sweeper/mine_sweeper.egg-info to /home/tyler122333/HW4/install/mine_sweeper/lib/python3.10/site-packages/mine_sweeper-0.0.0-py3.10.egg-info
+[0.687s] running install_scripts
+[0.701s] Installing sweeper script to /home/tyler122333/HW4/install/mine_sweeper/lib/mine_sweeper
+[0.702s] writing list of installed files to '/home/tyler122333/HW4/build/mine_sweeper/install.log'
+[0.720s] Invoked command in '/home/tyler122333/HW4/src/mine_sweeper' returned '0': PYTHONPATH=/home/tyler122333/HW4/build/mine_sweeper/prefix_override:/home/tyler122333/HW4/install/mine_sweeper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mine_sweeper build --build-base /home/tyler122333/HW4/build/mine_sweeper/build install --record /home/tyler122333/HW4/build/mine_sweeper/install.log --single-version-externally-managed

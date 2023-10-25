@@ -1,0 +1,6 @@
+source;share/mine_sweeper/hook/pythonpath.ps1
+source;share/mine_sweeper/hook/pythonpath.dsv
+source;share/mine_sweeper/hook/pythonpath.sh
+source;share/mine_sweeper/hook/ament_prefix_path.ps1
+source;share/mine_sweeper/hook/ament_prefix_path.dsv
+source;share/mine_sweeper/hook/ament_prefix_path.sh

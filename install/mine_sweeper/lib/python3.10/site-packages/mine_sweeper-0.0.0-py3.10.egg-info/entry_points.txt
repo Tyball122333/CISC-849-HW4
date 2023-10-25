@@ -1,0 +1,3 @@
+[console_scripts]
+sweeper = mine_sweeper.sweeper:main
+
